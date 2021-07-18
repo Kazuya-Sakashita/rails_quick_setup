@@ -1,24 +1,13 @@
-# README
+## アプリケーション名：rails_quick_setup
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+新規プロジェクトを立ち上げる際に使用するテンプレート用に作成した。
 
-Things you may want to cover:
 
-* Ruby version
+## 開発環境
 
-* System dependencies
+Ruby 2.6.8  
+Rails 6.1.4
 
-* Configuration
+## 参考HP
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://qiita.com/d0ne1s/items/16b0815bb5bc0ed13eb8
